@@ -87,11 +87,11 @@ lib/
 
 ## 👥 Credits
 
-- **Original author:** Mahmoud Alaa – [LinkedIn](https://www.linkedin.com/in/mahmoudalaa2210/) • [GitHub](https://github.com/Mahmoud3laa)
-- **Modified and documented by:** Remoen Reda Eid Henein
+- **Original author:** Mahmoud Alaa – [LinkedIn](https://www.linkedin.com/in/remoneid) • [GitHub](https://github.com/remonreda)
+- **Modified and documented by:** Remon Reda Eid Henein
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. The original copyright notice and attribution to Mahmoud Alaa must be kept with all copies and modified versions.
+This project is licensed under the **MIT License**. The original copyright notice and attribution to Remon Reda Eid Henein must be kept with all copies and modified versions.
